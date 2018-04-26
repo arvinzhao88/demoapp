@@ -1,0 +1,8 @@
+apiVersion: v1
+description: A Rancher 2.0 App store for Sock Shop
+name: sockshop
+version: 0.2.0
+description: Rancher DemoAPP
+icon: https://github.com/arvinzhao88/sockshop-catalog-demo/blob/master/templates/Sockshop/catalogIcon-CICD.jpeg
+
+
